@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/buy_now_bg.xml" value="0.1824074074074074" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/ic_account_settings.xml" value="0.19444444444444445" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/ic_cart_black.xml" value="0.176" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/ic_home_fruit.xml" value="0.19074074074074074" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/ic_meat.xml" value="0.19074074074074074" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/drawable/search_bg.xml" value="0.19444444444444445" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/font/open_sans.xml" value="0.1824074074074074" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout-v23/recently_viewed_items.xml" value="0.1598731884057971" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/activity_all_category.xml" value="0.17300724637681159" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/activity_product_details.xml" value="0.17300724637681159" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/all_category_row_items.xml" value="0.17300724637681159" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/category_row_items.xml" value="0.1793478260869565" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/discounted_row_items.xml" value="0.1793478260869565" />
+        <entry key="..\:/AryaOnlineGrocery/app/src/main/res/layout/recently_viewed_items.xml" value="0.17300724637681159" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
